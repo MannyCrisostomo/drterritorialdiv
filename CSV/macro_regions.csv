@@ -1,0 +1,4 @@
+id,geo_code,macro_region,region,province,municipality,municipal_district,section,neighborhood,sub_neighborhood,name
+1,01000000000000000,01,00,00,00,00,00,000,00,Norte
+9945,02000000000000000,02,00,00,00,00,00,000,00,Suroeste
+12665,03000000000000000,03,00,00,00,00,00,000,00,Sureste
