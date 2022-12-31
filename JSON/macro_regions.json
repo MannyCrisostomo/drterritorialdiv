@@ -1,0 +1,41 @@
+[
+  {
+    "id": 1,
+    "geo_code": "01000000000000000",
+    "macro_region": "01",
+    "region": "00",
+    "province": "00",
+    "municipality": "00",
+    "municipal_district": "00",
+    "section": "00",
+    "neighborhood": "000",
+    "sub_neighborhood": "00",
+    "name": "Norte"
+  },
+  {
+    "id": 9945,
+    "geo_code": "02000000000000000",
+    "macro_region": "02",
+    "region": "00",
+    "province": "00",
+    "municipality": "00",
+    "municipal_district": "00",
+    "section": "00",
+    "neighborhood": "000",
+    "sub_neighborhood": "00",
+    "name": "Suroeste"
+  },
+  {
+    "id": 12665,
+    "geo_code": "03000000000000000",
+    "macro_region": "03",
+    "region": "00",
+    "province": "00",
+    "municipality": "00",
+    "municipal_district": "00",
+    "section": "00",
+    "neighborhood": "000",
+    "sub_neighborhood": "00",
+    "name": "Sureste"
+  }
+]
